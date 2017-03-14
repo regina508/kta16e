@@ -1,0 +1,6 @@
+<files "*.txt">
+
+deny from all
+
+
+</files>
